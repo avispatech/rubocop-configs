@@ -1,6 +1,5 @@
 require:
   - rubocop-rspec
-  - rubocop-packaging
   - rubocop-performance
   - rubocop-rails
 
@@ -325,16 +324,4 @@ Performance/RedundantStringChars:
   Enabled: true
 
 Performance/StringInclude:
-  Enabled: true
-
-Minitest/AssertRaisesWithRegexpArgument:
-  Enabled: true
-
-Minitest/AssertWithExpectedArgument:
-  Enabled: true
-
-Minitest/SkipEnsure:
-  Enabled: true
-
-Minitest/UnreachableAssertion:
   Enabled: true
