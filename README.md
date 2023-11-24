@@ -2,7 +2,7 @@
 
 Getting started in a project requires a lot of "paperwork".
 
-One of them is setting the correct rubocop.yml file in the project so they are all consistent.
+One of them is setting the correct `.rubocop.yml` file in the project so they are all consistent.
 
 We will start taking the Rubocop File from Rails as of January 5th, 2023, and we will modify them as we evolve.
 
